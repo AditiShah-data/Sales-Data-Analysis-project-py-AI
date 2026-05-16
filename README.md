@@ -110,9 +110,9 @@ The objective of this project was to answer the following business questions:
 
 The project includes several visualizations, including:
 
-- [Holiday vs Non-Holiday](images/Holiday_vs_Non-Holiday.png)
+- [Holiday vs Non-Holiday](images/Holiday.png)
 - [Unemployment_Ranges](images/Unemployment_Ranges.png)
-- [Weekly Sales by Temperature Category and Holiday Status](images/Weekly-Sales-by-Temperature-Category-and-Holiday-Status.png)
+- [Weekly Sales by Temperature Category and Holiday Status](images/Weekly_Sales.png)
 - [bottom5](images/bottom5.png)
 - [temperature_range](images/temperature_range.png)
 - [top5](images/top5.png)
