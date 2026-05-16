@@ -14,10 +14,10 @@ Analyzed three years of Walmart sales data to uncover trends, seasonal patterns,
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Dataset](#overview)
+- [Dataset](#dataset)
 - [Tools and Technologies](#tool-and-technologies)
 - [Methods](#methods)
-- [Key Insights](#key-insight)
+- [Key Insights](#key-insights)
 - [Dashboard / Output](#dashboard-/-output)
 - [Result & Conclusion](#result-&-conclusion)
 - [Author](#author)
@@ -29,7 +29,7 @@ Analyzed three years of Walmart sales data to uncover trends, seasonal patterns,
 ---
 
 
-## 📖 Overview
+## Overview
 
 This project focuses on analyzing historical Walmart sales data from 2010 to 2012. The dataset contains weekly sales figures for multiple stores and departments, along with economic indicators such as fuel prices, CPI, unemployment, and holiday information.
 
@@ -39,7 +39,7 @@ The goal was to convert raw transactional data into meaningful business insights
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 Retail businesses generate large volumes of sales data, but raw numbers alone do not provide useful insights.
 
@@ -53,7 +53,7 @@ The objective of this project was to answer the following business questions:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Walmart Historical Sales Dataset (Kaggle)
 - **Time Period:** February 2010 to October 2012
@@ -72,7 +72,7 @@ The objective of this project was to answer the following business questions:
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - Python
 - Jupyter Notebook
@@ -84,7 +84,7 @@ The objective of this project was to answer the following business questions:
 
 ---
 
-## 🔍 Methods
+## Methods
 
 1. Data Loading and Inspection
 2. Data Cleaning and Missing Value Handling
@@ -96,7 +96,7 @@ The objective of this project was to answer the following business questions:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Certain stores consistently outperformed others in total sales.
 - Sales increased significantly during holiday periods.
@@ -106,7 +106,7 @@ The objective of this project was to answer the following business questions:
 
 ---
 
-## 📊 Dashboard / Output
+## Dashboard / Output
 
 The project includes several visualizations, including:
 
@@ -121,7 +121,7 @@ These charts help stakeholders quickly understand business performance and trend
 
 ---
 
-📈Results & Conclusion
+Results & Conclusion
 The analysis revealed strong seasonal sales patterns and significant differences in store performance. Holiday periods had a noticeable positive impact on revenue, while economic indicators provided additional context for understanding fluctuations.
 This project demonstrates how Python can be used to transform raw retail data into meaningful business insights that support better operational and strategic decisions.
 
