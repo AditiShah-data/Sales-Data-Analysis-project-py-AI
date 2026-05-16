@@ -126,7 +126,7 @@ This project demonstrates how Python can be used to transform raw retail data in
 
 ---
 
-##Author
+## Author
 
 Aditi Shah
 
@@ -134,7 +134,7 @@ An aspiring data analyst passionate about turning raw data into actionable insig
 
 ---
 
-##Acknowledgements
+## Acknowledgements
 
 This project was developed as part of my data analytics learning journey. I used python.org⁠� and guidance from chatgpt.com⁠� to better understand data cleaning, analysis, and visualization techniques.
 
